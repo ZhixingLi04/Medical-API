@@ -1,1 +1,45 @@
+[
+  {
+    "name": "Aspirin",
+    "description": "Used to relieve mild to moderate pain, reduce fever, and as an anti-inflammatory. Also commonly used to prevent heart attacks.",
+    "side_effects": ["Stomach upset", "Bleeding risk", "Nausea"],
+    "usage": "Take with food to minimize stomach irritation. Avoid using with other NSAIDs."
+  },
+  {
+    "name": "Paracetamol",
+    "description": "Commonly used to reduce fever and relieve mild to moderate pain. It has no anti-inflammatory properties.",
+    "side_effects": ["Liver damage (in overdose)", "Skin rash (rare)"],
+    "usage": "Typical adult dose is 500mg to 1000mg per dose, not exceeding 4000mg per day."
+  },
+  {
+    "name": "Ibuprofen",
+    "description": "A nonsteroidal anti-inflammatory drug (NSAID) used for pain relief, inflammation, and fever reduction.",
+    "side_effects": ["Stomach pain", "Dizziness", "High blood pressure", "Kidney issues"],
+    "usage": "Take after meals every 6 to 8 hours. Avoid prolonged use at high doses."
+  },
+  {
+    "name": "Amoxicillin",
+    "description": "A common penicillin-type antibiotic used to treat bacterial infections such as sore throat, pneumonia, and urinary tract infections.",
+    "side_effects": ["Allergic reactions", "Diarrhea", "Skin rash"],
+    "usage": "Take as prescribed. Do not stop the course early even if symptoms improve."
+  },
+  {
+    "name": "Loratadine",
+    "description": "An antihistamine used to treat allergies such as hay fever and hives.",
+    "side_effects": ["Drowsiness (rare)", "Dry mouth"],
+    "usage": "Take once daily, preferably at the same time each day."
+  },
+  {
+    "name": "Metformin",
+    "description": "A first-line medication for type 2 diabetes that helps control blood sugar levels.",
+    "side_effects": ["Diarrhea", "Nausea", "Lactic acidosis (rare)"],
+    "usage": "Take after meals to reduce gastrointestinal side effects. Monitor kidney function regularly."
+  },
+  {
+    "name": "Omeprazole",
+    "description": "A proton pump inhibitor (PPI) used to treat stomach ulcers, GERD, and acid reflux.",
+    "side_effects": ["Bloating", "Headache", "Vitamin B12 deficiency (long-term use)"],
+    "usage": "Take 30 minutes before breakfast. Do not use long-term without medical supervision."
+  }
+]
 
